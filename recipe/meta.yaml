@@ -44,9 +44,9 @@ test:
 
 about:
   home: https://www.riverbankcomputing.com/software/pyqt/
-  license: GPL-3.0-only
-  license_family: GPL
-  license_file: LICENSE-GPL3
+  license: BSD-2-Clause
+  license_family: BSD
+  license_file: LICENSE
   summary: The PEP 517 compliant PyQt build system
   description: |
     PyQt-builder is the PEP 517 compliant build system for PyQt and projects
